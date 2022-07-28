@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/anode_defects_detection_CV.iml" filepath="$PROJECT_DIR$/.idea/anode_defects_detection_CV.iml" />
     </modules>
   </component>
 </project>
